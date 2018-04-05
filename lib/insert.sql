@@ -29,4 +29,4 @@ INSERT INTO bears
 INSERT INTO bears
   (age, gender, color, temperament, alive)
     VALUES
-  (6, 'M', 'Brown', 'Mean', 'true')
+  (6, 'M', 'Brown', 'Mean', 'true');
