@@ -1,9 +1,9 @@
 CREATE TABLE (
   id INTEGER PRIMARY key
-  name TEXT 
-  age INTEGER 
+  name TEXT
+  age INTEGER
   gender CHAR(1)
-  color TEXT 
-  temperament TEXT 
+  color TEXT
+  temperament TEXT
   alive BOOLEAN 
 )
