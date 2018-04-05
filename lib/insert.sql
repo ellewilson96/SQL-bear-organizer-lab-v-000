@@ -17,7 +17,7 @@ INSERT INTO bears
 INSERT INTO bears
   (name, age, gender, color, temperament, alive)
     VALUES
-  ('Melissa', 5, 'F', 'Black', 'Mellow', 1);
+  ('Melissa', 5, 'F', 'Black', 'Goofy', 1);
 INSERT INTO bears
   (name, age, gender, color, temperament, alive)
     VALUES
